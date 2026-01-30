@@ -1,4 +1,4 @@
-# 🛡️ Phishing Detection & Awareness  
+#  Phishing Detection & Awareness  
 **Cyber Security Task 2 (2026)**  
 **By:** Future Interns  
 **Role:** Security Analyst (Awareness & Analysis)
