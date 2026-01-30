@@ -5,7 +5,7 @@
 
 ---
 
-## 📌 Introduction
+##  Introduction
 
 Phishing is one of the most common cyber attacks used to steal:
 
@@ -19,7 +19,7 @@ This report analyzes a phishing email and provides **simple awareness guidelines
 
 ---
 
-## 🎯 Objective of This Report
+##  Objective of This Report
 
 The main goals of this report are to:
 
@@ -31,33 +31,33 @@ The main goals of this report are to:
 
 ---
 
-## 🧰 Tools Used
+##  Tools Used
 
-- 📧 Email Header Analyzer  
-- 🔍 Google Message Header Analyzer  
-- 🌐 MXToolbox Email Header Analyzer  
-- 🖥️ Browser Safety Checks  
-- 🔗 Hovering over links (no clicking)  
-- 🌍 Domain inspection  
-- 📝 Documentation using Markdown (GitHub-ready)
+-  Email Header Analyzer  
+-  Google Message Header Analyzer  
+-  MXToolbox Email Header Analyzer  
+-  Browser Safety Checks  
+-  Hovering over links (no clicking)  
+-  Domain inspection  
+-  Documentation using Markdown (GitHub-ready)
 
 ---
 
-## 📩 Sample Phishing Email Analyzed
+##  Sample Phishing Email Analyzed
 
-### 🔎 Email Details
+###  Email Details
 
-- **Subject:** ⚠️ Urgent: Your Account Will Be Locked  
+- **Subject:**  Urgent: Your Account Will Be Locked  
 - **Sender:** `security@secure-account-verify.com` *(Fake)*  
 
-### 📄 Email Body
+###  Email Body
 
 > Dear User,  
 >  
 > We noticed suspicious activity on your account.  
 > To avoid account suspension, please verify your details immediately.  
 >  
-> 👉 **Verify Now:** `http://secure-account-verify[.]com`  
+>  **Verify Now:** `http://secure-account-verify[.]com`  
 >  
 > Failure to verify within 24 hours will result in permanent account lock.  
 >  
@@ -66,7 +66,7 @@ The main goals of this report are to:
 
 ---
 
-## 🚩 Phishing Indicators Identified
+##  Phishing Indicators Identified
 
 | **Indicator** | **Observation** | **Why It Is Dangerous** |
 |--------------|---------------|-------------------------|
@@ -78,23 +78,23 @@ The main goals of this report are to:
 
 ---
 
-## 🔴 Email Risk Classification
+##  Email Risk Classification
 
-**Risk Level:** 🔴 **PHISHING**
+**Risk Level:**  **PHISHING**
 
-### ❗ Reasons
+###  Reasons
 
 - Fake sender domain  
 - Urgent and threatening language  
 - Suspicious link  
 - No user personalization  
 
-📌 **Action:**  
+**Action:**  
 This email should be **deleted immediately** and **reported to the security team**.
 
 ---
 
-## 🧠 How This Phishing Attack Works (Simple Explanation)
+##  How This Phishing Attack Works (Simple Explanation)
 
 1. User receives an urgent email  
 2. Email creates fear (account suspension)  
@@ -105,16 +105,16 @@ This email should be **deleted immediately** and **reported to the security team
 
 ---
 
-## 🛑 Prevention Guidelines for Employees
+##  Prevention Guidelines for Employees
 
-### ✅ Do’s
+###  Do’s
 
 - Check the sender’s email address carefully  
 - Hover over links before clicking  
 - Verify urgent emails using official websites  
 - Report suspicious emails to IT/Security team  
 
-### ❌ Don’ts
+###  Don’ts
 
 - Do not click unknown or suspicious links  
 - Do not download attachments from unknown senders  
@@ -123,20 +123,20 @@ This email should be **deleted immediately** and **reported to the security team
 
 ---
 
-## 📋 Employee Awareness Checklist
+##  Employee Awareness Checklist
 
 Ask yourself the following questions:
 
-- ❓ Is the sender domain correct?  
-- ⏰ Is the email creating urgency or fear?  
-- 🔗 Does the link look suspicious?  
-- 👤 Is my name missing?  
+-  Is the sender domain correct?  
+-  Is the email creating urgency or fear?  
+-  Does the link look suspicious?  
+-  Is my name missing?  
 
-👉 **If ANY answer is YES, treat the email as phishing.**
+ **If ANY answer is YES, treat the email as phishing.**
 
 ---
 
-## 🏁 Conclusion
+## Conclusion
 
 Phishing attacks succeed mainly due to **lack of awareness**.
 
